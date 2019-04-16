@@ -33,7 +33,16 @@
     "siteFonts": [],
     "uniqCompNum": 11,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-hyundai-128x39.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
